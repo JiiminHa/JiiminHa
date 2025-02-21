@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 ## ✨ My Projects
 | Duration | Title | Stack | More |
 |:--------:|:-----:|:-----:|:----:|
-| 2024.11 - 2024.12 | Software Development Club Exhibition 2024 | React | [GitHub](https://github.com/APPS-sookmyung/2024-APPS-Exhibition-Webpage) |
+| 2024.11 - 2024.12 | Software Development Club APPS Exhibition 2024 | React | [GitHub](https://github.com/APPS-sookmyung/2024-APPS-Exhibition-Webpage) |
 | 2024.7 - 2024.12 | 식집사를 위한 커뮤니티, GreenTalk | Html, CSS, JS | [GitHub](https://github.com/APPS-sookmyung/2024-GreenTalk) |
 
 <br/>
