@@ -29,7 +29,7 @@
 | 기간 | 소속/활동 | 역할 |
 |:----:|:----------:|:----:|
 | 2025.03 ~ ing | [멋쟁이사자처럼](https://github.com/Likelion-at-SMWU-13th) | 기획 / 디자인 (13기) |
-| 2025.03 ~ ing | [코테이토](https://github.com/IT-Cotato) | 프론트엔드 (12기) |
+| 2025.03 ~ ing | [코테이토](https://github.com/IT-Cotato) | 프론트엔드 (11기) |
 | 2025.01 ~ ing | [APPS 개발 학회](https://github.com/APPS-sookmyung) | 부회장 (12기) |
 | 2024.03 ~ 2024.12 | [APPS 개발 학회](https://github.com/APPS-sookmyung) | 학회원 (11기) |
 
