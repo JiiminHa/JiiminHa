@@ -1,5 +1,6 @@
-안녕하세요! 디자인과 기획, 그리고 코드를 연결하는 프론트엔드 개발자입니다.  
-컴포넌트 아키텍처, 사용자 플로우, 그리고 직관적인 인터페이스를 만드는 데 집중합니다. 🎨
+>안녕하세요!</br>
+기획·디자인·프론트엔드를 모두 경험하며, 사용자 경험을 구조화해 구현하는 개발자입니다.</br>
+단순히 화면을 만드는 것이 아니라, 사용자 흐름과 설계 의도를 코드로 정확하게 번역하는 것에 집중합니다.🎨
 
 #### 💻 프론트엔드 개발
 React + TypeScript 기반으로 재사용 가능한 컴포넌트 시스템과 명확한 상태 관리를 구현합니다. 디자인 시스템을 이해하고 UX를 유지보수 가능한 코드로 변환합니다.
@@ -35,4 +36,4 @@ React + TypeScript 기반으로 재사용 가능한 컴포넌트 시스템과 �
 ### Contact
 [![Tech Blog](https://img.shields.io/badge/Tech_Blog-11B48A?style=flat-square&logoColor=white)](https://jiminha.tistory.com/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)](https://github.com/JiiminHa)
-[![Email](https://img.shields.io/badge/your_email-EA4335?style=flat-square&logo=Gmail&logoColor=white)](mailto:tracygkwlals@gmail.com)
+[![Email](https://img.shields.io/badge/email-EA4335?style=flat-square&logo=Gmail&logoColor=white)](mailto:tracygkwlals@gmail.com)
