@@ -43,7 +43,7 @@
 ### Awards & Honors
 
 - 🏆 **Grand Prize (대상)** | Low-Code AI Challenge Hackathon · Upstage × Sookmyung SW University `2026`
-- 🥇 **Grand Prize (대상)** | SOSP Outstanding Activity · Sookmyung Women's University `2026`
+- 🏆 **Grand Prize (대상)** | SOSP Outstanding Activity · Sookmyung Women's University `2026`
 - 🎖️ **Special Award (특별상)** | LIKELION Line 4 Hackathon `2025`
 
 ---
