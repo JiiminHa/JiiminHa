@@ -23,7 +23,7 @@
 #### 스노로즈 (Snorose)
 > 숙명여자대학교 재학생과 졸업생을 위한 커뮤니티 웹 서비스
 - **Period**: 2026.02 ~ Present
-- **Role**: Frontend Engineer (백오피스 TF Lead)
+- **Role**: Frontend Engineer
 - **Stack**: TypeScript, React, TanStack Query, Tailwind CSS
 
 #### 코테이토 (COTATO Platform)
